@@ -1,0 +1,7 @@
+memo = "4c8b7ff99a7b1f2bd1ca467192a3a763c77bd56c5c9fceb37aba17cf98c7b2fa"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/najeira/jpholiday"
+  packages = ["."]
+  revision = "014651aa4a51361f1e518fe2128d3b36c38e8d0f"
